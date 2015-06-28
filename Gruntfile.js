@@ -219,7 +219,7 @@ module.exports = function (grunt) {
     grunt.registerTask('full', 'Phaser complete', function() {
 
         grunt.option('exclude', 'ninja');
-        grunt.option('filename', 'phaser');
+        grunt.option('filename', 'phaser-2.3.0-master-imagecollection-support');
         grunt.option('sourcemap', true);
         grunt.option('copy', true);
 

@@ -13,3 +13,6 @@ node_modules/
 dist/
 /npm-debug.log
 out/
+build/phaser-2.3.0-master-imagecollection-support.min.js
+build/phaser-2.3.0-master-imagecollection-support.map
+build/phaser-2.3.0-master-imagecollection-support.js
